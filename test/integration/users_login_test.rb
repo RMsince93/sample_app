@@ -77,3 +77,5 @@ class LogoutTest < Logout
   end
 
 end
+
+
